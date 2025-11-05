@@ -1,4 +1,4 @@
-# 💹 FinWise: Intelligent Risk-Driven Investment Allocation System
+# Intelligent Risk-Driven Investment Allocation System
 
 ### Overview
 **FinWise** is a Python-powered decision intelligence tool that helps investors design optimal investment portfolios based on risk tolerance, historical asset performance, and expected financial goals.  
