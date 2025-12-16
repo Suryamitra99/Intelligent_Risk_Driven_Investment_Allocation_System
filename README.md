@@ -8,7 +8,7 @@ This project merges **data science principles** with **investment strategy** to 
 
 ---
 
-### 🧠 Objectives
+### Objectives
 FinWise was developed to:
 1. Enable **data-driven portfolio optimization** using historical asset returns.  
 2. Classify investors by **risk profile** — from *very low* to *very high*.  
@@ -17,7 +17,7 @@ FinWise was developed to:
 
 ---
 
-### ⚙️ Key Inputs
+### Key Inputs
 - **Starting Year** – Investment beginning year  
 - **Final Year** – Target evaluation year  
 - **Initial Investment** – Capital available at the start  
@@ -27,7 +27,7 @@ FinWise was developed to:
 
 ---
 
-### 📊 Key Outputs
+### Key Outputs
 1. **Optimal Portfolio Allocation** – Distribution across Bonds, Large-Cap, Mid-Cap, Small-Cap mutual funds, and Gold  
 2. **Growth Forecast** – Year-wise cumulative investment and return growth  
 3. **Risk Classification** – Categorization into risk tiers from *Very Low* to *Very High*  
@@ -38,7 +38,7 @@ FinWise was developed to:
 
 ---
 
-### 💡 Features
+### Features
 - **Adaptive Risk-Based Allocation:**  
   The algorithm dynamically adjusts exposure to high- and low-risk assets according to the user’s expected return.
 
@@ -53,7 +53,7 @@ FinWise was developed to:
 
 ---
 
-### 🧮 Technical Architecture
+### Technical Architecture
 - **Computation Engine:**  
   Core algorithms developed in **Python**, leveraging libraries such as `pandas`, `numpy`, and `matplotlib`.
 
@@ -68,7 +68,7 @@ FinWise was developed to:
 
 ---
 
-### 📈 Financial Logic Overview
+### Financial Logic Overview
 FinWise evaluates multiple asset categories:
 | Asset Class | Typical Return (p.a.) | Description |
 |--------------|----------------------|--------------|
@@ -82,7 +82,7 @@ The algorithm models these returns across 12 years (2020–2032) and aligns allo
 
 ---
 
-### 🧭 Strategic Design Considerations
+### Strategic Design Considerations
 - **User-Centric Approach:** Focused on clarity, interactivity, and transparency.  
 - **Scalable Architecture:** Easily expandable to include new asset classes or live financial data feeds.  
 - **Integration Potential:** Can connect with APIs from investment platforms for real-time tracking.  
@@ -90,7 +90,7 @@ The algorithm models these returns across 12 years (2020–2032) and aligns allo
 
 ---
 
-### 🧰 Use Cases
+### Use Cases
 1. **Individual Investors:**  
    Discover personalized portfolio mixes suited to your financial goals.  
 2. **Financial Advisors:**  
@@ -100,7 +100,7 @@ The algorithm models these returns across 12 years (2020–2032) and aligns allo
 
 ---
 
-### 📈 Future Roadmap
+### Future Roadmap
 - Incorporate **live market data** APIs for dynamic recalculations.  
 - Introduce **Monte Carlo simulations** for probabilistic risk analysis.  
 - Expand visualization with **interactive dashboards** using Streamlit or Dash.  
