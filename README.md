@@ -1,7 +1,5 @@
 # Risk Based Portfolio Optimiser
 
-> **Live Demo:** [ravishankar2003.github.io/risk_based_portfolio_optimiser](https://ravishankar2003.github.io/risk_based_portfolio_optimiser/)
-
 A web-based financial planning tool that recommends optimal asset allocation across 5 asset classes — based on the user's investment horizon, annual contribution, and target return — using historically calibrated return rates and 4 pre-defined risk profiles.
 
 ---
